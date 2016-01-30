@@ -1,0 +1,7 @@
+C:\Users\John\Documents\Visual Studio 2013\Projects\AnthologyInterview\MyUmbraco1\MyUmbraco1\bin\MyUmbraco1.dll.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\AnthologyInterview\MyUmbraco1\MyUmbraco1\bin\MyUmbraco1.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\AnthologyInterview\MyUmbraco1\MyUmbraco1\bin\MyUmbraco1.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\AnthologyInterview\MyUmbraco1\MyUmbraco1\obj\Debug\MyUmbraco1.csproj.App.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\AnthologyInterview\MyUmbraco1\MyUmbraco1\obj\Debug\MyUmbraco1.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\AnthologyInterview\MyUmbraco1\MyUmbraco1\obj\Debug\MyUmbraco1.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\AnthologyInterview\MyUmbraco1\MyUmbraco1\obj\Debug\MyUmbraco1.csprojResolveAssemblyReference.cache
